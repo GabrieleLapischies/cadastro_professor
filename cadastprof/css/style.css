@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(182, 215, 113, 0.838);
+    margin: 0px;
+    padding: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    background-color: beige;
+    height: 30%;
+}
+.naveg{
+    height: 30%;
+    background-color: beige;
+}
+.cnaveg{
+    padding-left: 10px;
+    float: right;
+    background-color: beige;
+    width: 120px;
+    height: 45px;
+    margin: 15px;
+}
+.sect{
+    max-width: 50%;
+    margin: auto;
+    margin-top: 0px;
+}
+.conteudo{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: beige;
+}
+input{
+    margin: 2px;
+}
